@@ -19,9 +19,14 @@ To run the experiments, you need to download the following datasets:
 
 ### Preprocess data:
 run:
-- Movies: **python datasets/imdb_dataset.py** <br />
-- Books: **python datasets/books_dataset.py** <br />
-- GCI: **N/A** <br />
+- Movies:
+  ```bash
+  python datasets/imdb_dataset.py
+  ```
+- Books: 
+  ```bash
+  python datasets/books_dataset.py
+  ```
 ## Usage
 To run the experiments, use the following command:
 
